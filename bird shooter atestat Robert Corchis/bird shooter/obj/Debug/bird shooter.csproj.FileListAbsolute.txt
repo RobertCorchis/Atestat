@@ -1,0 +1,20 @@
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\bin\Debug\bird shooter.exe.config
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\bin\Debug\bird shooter.exe
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\bin\Debug\bird shooter.pdb
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird shooter.csprojAssemblyReference.cache
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird_shooter.Form1.resources
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird_shooter.Properties.Resources.resources
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird shooter.csproj.GenerateResource.cache
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird shooter.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird shooter.exe
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter\bird shooter\obj\Debug\bird shooter.pdb
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\bin\Debug\bird shooter.exe.config
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\bin\Debug\bird shooter.exe
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\bin\Debug\bird shooter.pdb
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird_shooter.Form1.resources
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird_shooter.Properties.Resources.resources
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird shooter.csproj.GenerateResource.Cache
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird shooter.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird shooter.exe
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird shooter.pdb
+E:\Visual Studio Projects Robert Corchis 12A\bird shooter atestat Robert Corchis\bird shooter\obj\Debug\bird shooter.csprojResolveAssemblyReference.cache
